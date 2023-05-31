@@ -1,7 +1,7 @@
 try:
- a = int(input('Enter Ur A Value :')) 
+ x = int(input('Enter Ur A Value :')) 
  b  = int(input('Enter ur B Value :'))
- c = a + b
+ c = x + b
  print (c)
 except:
     print('Invalid Input')
